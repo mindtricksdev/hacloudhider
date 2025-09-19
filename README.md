@@ -1,5 +1,9 @@
 # Home Assistant Cloud Hider
 
+<p align="center">
+  <img src="icon.png" alt="Home Assistant Cloud Hider Icon" width="128" height="128">
+</p>
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 
 A simple HACS frontend integration that hides the "Home Assistant Cloud" menu item from your Home Assistant sidebar.
@@ -11,7 +15,7 @@ If you prefer not to see the Home Assistant Cloud option in your sidebar menu, t
 ## Features
 
 - ✅ Automatically hides the "Home Assistant Cloud" menu item
-- ✅ Works across all Home Assistant pages and navigation
+- ✅ Works across all Home Assistant pages and navigation and on mobile devices
 - ✅ Handles dynamic sidebar updates and route changes
 - ✅ Lightweight and efficient
 - ✅ No configuration needed
@@ -21,14 +25,13 @@ If you prefer not to see the Home Assistant Cloud option in your sidebar menu, t
 ### HACS (Recommended)
 
 1. Open HACS in your Home Assistant instance
-2. Go to "Frontend" section
-3. Click the three dots menu (⋮) in the top right corner
-4. Select "Custom repositories"
-5. Add this repository URL: `https://github.com/mindtricksdev/hacloudhider`
-6. Select "Frontend" as the category
-7. Click "Add"
-8. Find "Home Assistant Cloud Hider" in the list and click "Download"
-9. Restart Home Assistant
+2. Click the three dots menu (⋮) in the top right corner
+3. Select "Custom repositories"
+4. Add this repository URL: `https://github.com/mindtricksdev/hacloudhider`
+5. Select "Dashboard" as the category
+6. Click "Add"
+7. Find "Home Assistant Cloud Hider" in the list and click "Download"
+8. Restart Home Assistant
 
 ### Manual Installation
 
