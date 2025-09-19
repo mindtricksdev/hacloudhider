@@ -1,0 +1,6 @@
+{
+  "name": "Home Assistant Cloud Hider",
+  "filename": "cloud_hider.js",
+  "render_readme": true,
+  "content_in_root": false
+}
