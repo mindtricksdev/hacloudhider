@@ -1,7 +1,7 @@
 # Home Assistant Cloud Hider
 
 <p align="center">
-  <img src="icon.png" alt="Home Assistant Cloud Hider Icon" width="128" height="128">
+  <img src="https://raw.githubusercontent.com/mindtricksdev/hacloudhider/refs/heads/main/icon.png" alt="Home Assistant Cloud Hider Icon" width="128" height="128">
 </p>
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
